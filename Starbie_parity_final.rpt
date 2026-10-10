@@ -1,0 +1,43 @@
+** Drc report for Starbie-My first PCB.kicad_pcb **
+** Created on 2026-10-11T04:10:54 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 8 Footprint errors **
+[net_conflict]: No pad found for pin 21 (/B1) in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 22 (/B2) in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 18 (GND) in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 19 in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 15 in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 20 in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 16 in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 17 in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+    - Footprint doesn't match copy in library
+
+** End of Report **

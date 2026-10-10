@@ -660,7 +660,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0778298a-7f4e-4f3f-90f2-98828dc3a444")
-		(at 114.815795 65.315795 -45)
+		(at 122 72.5 135)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D1"
@@ -933,7 +933,7 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(roundrect_rratio 0.15625)
-			(net "Net-(BZ1-+)")
+			(net "+3.3V")
 			(pinfunction "K_1")
 			(pintype "passive")
 			(teardrops
@@ -955,7 +955,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "+3.3V")
+			(net "Net-(BZ1--)")
 			(pinfunction "A_2")
 			(pintype "passive")
 			(teardrops
@@ -1185,7 +1185,7 @@
 			(drill 0.75)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "Net-(BZ1-+)")
+			(net "Net-(BZ1--)")
 			(pinfunction "C_1")
 			(pintype "passive")
 			(teardrops
@@ -2349,7 +2349,7 @@
 	(footprint "Buzzer_Beeper:Buzzer_12x9.5RM7.6"
 		(layer "F.Cu")
 		(uuid "8b99c2e6-fb6b-4ffe-a9ad-6a0650c2098a")
-		(at 128.9 78.5)
+		(at 136.5 78.5 180)
 		(descr "Generic Buzzer, D12mm height 9.5mm with RM7.6mm")
 		(tags "buzzer")
 		(property "Reference" "BZ1"
@@ -2495,7 +2495,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "Net-(BZ1-+)")
+			(net "+3.3V")
 			(pinfunction "+_1")
 			(pintype "passive")
 			(teardrops
@@ -2517,7 +2517,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "+3.3V")
+			(net "Net-(BZ1--)")
 			(pinfunction "-_2")
 			(pintype "passive")
 			(teardrops
@@ -8802,7 +8802,7 @@
 		(end 142.2 79.8)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(uuid "1806bbbe-ba94-4d83-8a24-7ce91f5037b7")
 	)
 	(segment
@@ -8810,7 +8810,7 @@
 		(end 130.2 79.8)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(uuid "92567b7e-929d-4727-95ac-9fddddb1fd26")
 	)
 	(segment
@@ -8818,7 +8818,7 @@
 		(end 128 78.5)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(uuid "9dce0a1d-b971-4f97-9b29-350d26e02251")
 	)
 	(segment
@@ -8826,7 +8826,7 @@
 		(end 148.5 73.5)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(uuid "f1c2f2fc-0387-45f5-ac9e-47e098adf073")
 	)
 	(segment
@@ -8834,7 +8834,7 @@
 		(end 153.96 73.5)
 		(width 0.2)
 		(layer "F.Cu")
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(uuid "f3b725c1-4a8a-4ed3-9a67-d89d4ca670e2")
 	)
 	(segment
@@ -8842,7 +8842,7 @@
 		(end 153.56 73.5)
 		(width 0.2)
 		(layer "B.Cu")
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(uuid "0d959d2a-0291-4fad-a392-d0de4b922ec7")
 	)
 	(segment
@@ -8850,7 +8850,7 @@
 		(end 128.9 77.3)
 		(width 0.2)
 		(layer "B.Cu")
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(uuid "269cf318-c6e0-49e4-8b73-f73114d5b590")
 	)
 	(segment
@@ -8858,7 +8858,7 @@
 		(end 128.9 77.934315)
 		(width 0.2)
 		(layer "B.Cu")
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(uuid "5a72bdde-14dd-4b17-a058-92106a6684c1")
 	)
 	(segment
@@ -8866,7 +8866,7 @@
 		(end 153.56 73.109315)
 		(width 0.2)
 		(layer "B.Cu")
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(uuid "7363ef3b-0a3a-41c0-a859-bc43ce5cc3bc")
 	)
 	(segment
@@ -8874,7 +8874,7 @@
 		(end 116.632952 65.032952)
 		(width 0.2)
 		(layer "B.Cu")
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(uuid "857aa28a-97d6-49a9-ab1e-8bbbead9fe44")
 	)
 	(segment
@@ -8882,7 +8882,7 @@
 		(end 128 78.5)
 		(width 0.2)
 		(layer "B.Cu")
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(uuid "8e5f9a2d-0cf0-4a45-a241-7576dd1f9eb5")
 	)
 	(segment
@@ -8890,7 +8890,7 @@
 		(end 115.098638 65.032952)
 		(width 0.2)
 		(layer "B.Cu")
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(uuid "9f8f837a-34ee-4d24-adaa-5cdb8b6669f8")
 	)
 	(zone
@@ -9499,7 +9499,7 @@
 		)
 	)
 	(zone
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
 		(priority 30003)
@@ -9533,7 +9533,7 @@
 		)
 	)
 	(zone
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
 		(priority 30027)
@@ -10001,7 +10001,7 @@
 		)
 	)
 	(zone
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(layer "B.Cu")
 		(hatch none 0.1)
 		(priority 30011)
@@ -10960,7 +10960,7 @@
 		)
 	)
 	(zone
-		(net "Net-(BZ1-+)")
+		(net "Net-(BZ1--)")
 		(layer "B.Cu")
 		(hatch none 0.1)
 		(priority 30030)
