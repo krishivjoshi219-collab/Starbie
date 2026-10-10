@@ -1,0 +1,122 @@
+** Drc report for Starbie-My first PCB.kicad_pcb **
+** Created on 2026-10-10T13:31:06 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 20 DRC violations **
+[invalid_outline]: Board has malformed outline (segment has null or very small length: 84 nm)
+    Local override; error
+    @(131.4472 mm, 114.6484 mm): Segment on Edge.Cuts
+    @(132.4228 mm, 115.2549 mm): Segment on Edge.Cuts
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; 4 spokes connected to isolated island)
+    Local override; error
+    @(85.0000 mm, 47.5000 mm): Zone [GND] on B.Cu, priority 0
+    @(177.2500 mm, 62.2500 mm): PTH pad 4 [GND] of U2
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(154.3230 mm, 114.3020 mm): Track [/SDA] on F.Cu, length 20.1532 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(168.4214 mm, 122.3421 mm): Track [/SDA] on F.Cu, length 14.7674 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(147.0680 mm, 106.6820 mm): Track [/SCL] on F.Cu, length 4.8536 mm
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6350 mm)
+    Rule: board setup constraints silk text height; warning
+    @(154.1300 mm, 105.4950 mm): Reference field of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(134.9900 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(135.4250 mm, 98.0000 mm): Pad 8 [unconnected-(U1-D7-Pad8)] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(134.9900 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(135.4250 mm, 100.5400 mm): Pad 9 [unconnected-(U1-D8-Pad9)_1] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(134.9900 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(135.4250 mm, 103.0800 mm): Pad 10 [unconnected-(U1-D9/BOOT-Pad10)_1] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(134.9900 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(135.4250 mm, 105.6200 mm): Pad 11 [unconnected-(U1-D10-Pad11)] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(134.9900 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(135.4250 mm, 108.1600 mm): Pad 12 [+3.3V] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(134.9900 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(135.4250 mm, 110.7000 mm): Pad 13 [GND] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(134.9900 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(135.4250 mm, 113.2400 mm): Pad 14 [unconnected-(U1-VBUS-Pad14)] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.7700 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(152.3350 mm, 113.2400 mm): Pad 1 [/DHT11 Data] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.7700 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(152.3350 mm, 110.7000 mm): Pad 2 [unconnected-(U1-D1-Pad2)_1] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.7700 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(152.3350 mm, 108.1600 mm): Pad 3 [/GPI02] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.7700 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(152.3350 mm, 105.6200 mm): Pad 4 [/GPI03] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.7700 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(152.3350 mm, 103.0800 mm): Pad 5 [/SCL] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.7700 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(152.3350 mm, 100.5400 mm): Pad 6 [/SDA] of U1 on F.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.7700 mm, 97.1110 mm): Segment of U1 on F.Silkscreen
+    @(152.3350 mm, 98.0000 mm): Pad 7 [/R2] of U1 on F.Cu
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(154.3230 mm, 114.3020 mm): Track [/SDA] on F.Cu, length 20.1532 mm
+    @(157.0780 mm, 115.0163 mm): Track [/SDA] on F.Cu, length 0.1345 mm
+
+** Found 8 Footprint errors **
+[net_conflict]: No pad found for pin 21 (/B1) in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 22 (/B2) in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 18 (GND) in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 19 in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 15 in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 20 in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 16 in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+[net_conflict]: No pad found for pin 17 in schematic
+    Local override; warning
+    @(143.8800 mm, 105.6200 mm): Footprint U1
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

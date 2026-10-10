@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to '/home/k/KiCAD/Starbie-My first PCB/Starbie-My first PCB-F_Cu.gbr'.
+Plotted to '/home/k/KiCAD/Starbie-My first PCB/Starbie-My first PCB-B_Cu.gbr'.
+Plotted to '/home/k/KiCAD/Starbie-My first PCB/Starbie-My first PCB-F_Paste.gbr'.
+Plotted to '/home/k/KiCAD/Starbie-My first PCB/Starbie-My first PCB-B_Paste.gbr'.
+Plotted to '/home/k/KiCAD/Starbie-My first PCB/Starbie-My first PCB-F_Silkscreen.gbr'.
+Plotted to '/home/k/KiCAD/Starbie-My first PCB/Starbie-My first PCB-B_Silkscreen.gbr'.
+Plotted to '/home/k/KiCAD/Starbie-My first PCB/Starbie-My first PCB-F_Mask.gbr'.
+Plotted to '/home/k/KiCAD/Starbie-My first PCB/Starbie-My first PCB-B_Mask.gbr'.
+Plotted to '/home/k/KiCAD/Starbie-My first PCB/Starbie-My first PCB-Edge_Cuts.gbr'.
+Created Gerber job file '/home/k/KiCAD/Starbie-My first PCB/Starbie-My first PCB-job.gbrjob'.
+Info: Done.
