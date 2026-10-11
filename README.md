@@ -75,8 +75,8 @@ Built for Week 1 of the Hack Club Half-Life program, this board features a custo
 | **1N5819 Schottky Diode DO-41 (Pack of 2)** | 2 | $0.07 | $0.14 | Robu.in | D1 (Flyback Protection) |
 | **1x40 Pin 2.54mm Male Berg Strip Connector** | 2 | $0.10 | $0.19 | Robu.in | J2 Header & Pins |
 | **1x40 Pin 2.54mm Straight Long Female Strip Socket** | 1 | $1.17 | $1.17 | Robu.in | J1, J3 Female Sockets |
-| **Custom Starbie PCB Fabrication (5 pcs)** | 1 | $4.00 | $4.00 | JLCPCB | 5 Custom PCBs (Merchandise) |
-| **Tax & Shipping (JLCPCB to India)** | 1 | $5.75 | $5.75 | JLCPCB | Shipping to India ($9.75 shipping - $4 coupon = $5.75) |
+| **Custom Starbie PCB Fabrication (5 pcs)** | 1 | $9.75 | $9.75 | JLCPCB | 5 Custom PCBs (Total order including shipping) |
+| **Tax & Shipping** | — | $0.00 | $0.00 | — | Free shipping on Robu / Included in JLCPCB |
 | **TOTAL ORDER COST** | | | **$29.34** | | **Tier 1 Budget: $29.34 of $30.00** ✅ |
 
 ---
