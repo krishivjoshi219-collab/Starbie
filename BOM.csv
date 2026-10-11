@@ -1,12 +1,14 @@
-"Designator","Component Name","Value / Spec","Footprint","Qty","Function / Notes"
-"U1","XIAO ESP32-C3","160MHz RISC-V","SMD / Socket","1","Main Controller Module"
-"U2","DHT11","Temp & Humidity","2.54mm Pitch TH","1","Ambient Room Sensor (Pin D0)"
-"BZ1","Active / Magnetic Buzzer","12x9.5 mm","7.6mm Pitch TH","1","Audio & Tone Output"
-"Q1","NPN Transistor","2N3904 / S8050","TO-92","1","Buzzer Low-Side Driver Switch"
-"D1","Switching Diode","1N4148","DO-35 Axial","1","Flyback Inductive Kickback Protection"
-"SW1, SW2","Push Button","6x6 mm Momentary","6mm Tactile TH","2","Navigation & HUD Toggle Buttons"
-"R1","Resistor","10kΩ","Axial Through-Hole","1","DHT11 Data Pull-Up Resistor"
-"R2","Resistor","1kΩ","Axial Through-Hole","1","Transistor Base Current Limiter"
-"J1","Pin Header Socket","1x04 (2.54mm)","Female Socket","1","0.96"" I2C SSD1306 OLED Display Mount"
-"J3","Pin Header Socket","1x08 (2.54mm)","Female Socket","1","MPU-6050 6-Axis IMU Module Mount"
-"J2","Pin Header","1x02 (2.54mm)","Male / Female Pin","1","Power / Battery Input Header"
+Part,Qty,Unit,Total,Vendor
+Seeed Studio XIAO ESP32-C3,1,8.97,8.97,Robu.in
+0.96 inch Yellow-Blue OLED Display Module,1,2.14,2.14,Robu.in
+DHT11 Temperature & Humidity Sensor Module,1,0.71,0.71,Robu.in
+SmartElex MPU-6050 6-Axis IMU Module,1,5.32,5.32,Robu.in
+YMD12095 5V Active Buzzer (12x9.5mm),1,0.29,0.29,Robu.in
+Tactile Push Button Switch 6x6x5 (Pack of 10),1,0.23,0.23,Robu.in
+CFR25 10k Ohm Axial Resistors,7,0.02,0.14,Robu.in
+MF25 1k Ohm Axial Resistors,3,0.05,0.15,Robu.in
+2N2222A NPN Transistor TO-92,4,0.04,0.15,Robu.in
+1N5819 Schottky Diode DO-41,2,0.07,0.14,Robu.in
+1x40 Pin 2.54mm Male Berg Strip Connector,2,0.10,0.19,Robu.in
+1x40 Pin 2.54mm Straight Long Female Strip Socket,1,1.17,1.17,Robu.in
+Custom Starbie PCB Fabrication (5 pcs),1,0.00,0.00,JLCPCB

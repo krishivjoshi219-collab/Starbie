@@ -58,6 +58,27 @@ Built for Week 1 of the Hack Club Half-Life program, this board features a custo
 | **J3** | Pin Header Socket | 1x08 (2.54mm Pitch) | Female Header | 1 | MPU-6050 IMU Mount |
 | **J2** | Pin Header | 1x02 (2.54mm Pitch) | Pin Header | 1 | Battery / Power Input |
 
+### Hack Club Half-Life Grant Procurement BOM (USD)
+*All parts strictly budgeted under Hack Club Half-Life Tier 1 Grant limit ($30.00 USD).*
+
+| Part | Qty | Unit | Total | Vendor | Reference / Notes |
+| :--- | :---: | :---: | :---: | :--- | :--- |
+| **Seeed Studio XIAO ESP32-C3** | 1 | $8.97 | $8.97 | Robu.in | U1 (Main Controller) |
+| **0.96 inch Yellow-Blue OLED Display Module** | 1 | $2.14 | $2.14 | Robu.in | J1 Mount (SSD1306 Display) |
+| **DHT11 Temperature & Humidity Sensor Module** | 1 | $0.71 | $0.71 | Robu.in | U2 (Environment Sensor) |
+| **SmartElex MPU-6050 6-Axis IMU Module** | 1 | $5.32 | $5.32 | Robu.in | J3 Mount (Motion Sensor) |
+| **YMD12095 5V Active Buzzer (12x9.5mm)** | 1 | $0.29 | $0.29 | Robu.in | BZ1 (Audio Output) |
+| **Tactile Push Button Switch 6x6x5 (Pack of 10)** | 1 | $0.23 | $0.23 | Robu.in | SW1, SW2 (Inputs) |
+| **CFR25 10k Ohm Axial Resistors (Pack of 7)** | 7 | $0.02 | $0.14 | Robu.in | R1 (Pull-up Resistor) |
+| **MF25 1k Ohm Axial Resistors (Pack of 3)** | 3 | $0.05 | $0.15 | Robu.in | R2 (Base Resistor) |
+| **2N2222A NPN Transistor TO-92 (Pack of 4)** | 4 | $0.04 | $0.15 | Robu.in | Q1 (Buzzer Switch) |
+| **1N5819 Schottky Diode DO-41 (Pack of 2)** | 2 | $0.07 | $0.14 | Robu.in | D1 (Flyback Protection) |
+| **1x40 Pin 2.54mm Male Berg Strip Connector** | 2 | $0.10 | $0.19 | Robu.in | J2 Header & Pins |
+| **1x40 Pin 2.54mm Straight Long Female Strip Socket** | 1 | $1.17 | $1.17 | Robu.in | J1, J3 Female Sockets |
+| **Custom Starbie PCB Fabrication (5 pcs)** | 1 | $0.00 | $0.00 | JLCPCB | 5 Custom PCBs ($4 coupon applied) |
+| **Tax & Shipping (JLCPCB to India)** | 1 | $9.75 | $9.75 | JLCPCB | Shipping for 5 custom boards |
+| **TOTAL ORDER COST** | | | **$29.34** | | **Tier 1 Budget: $29.34 of $30.00** ✅ |
+
 ---
 
 ## Firmware Setup
