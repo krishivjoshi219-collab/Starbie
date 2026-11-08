@@ -42,6 +42,24 @@ Temperature: Just shows the tempeature in the menu
 
 ---
 
+## BOM
+
+| Item | Qty | Supplier | Cost/item | Total Cost |
+| :--- | :---: | :--- | :---: | :---: |
+| Seeed Studio XIAO ESP32-C3 | 1 | Robu.in | $8.97 | $8.97 |
+| 0.96 inch Yellow-Blue OLED Display Module | 1 | Robu.in | $2.14 | $2.14 |
+| DHT11 Temperature & Humidity Sensor Module | 1 | Robu.in | $0.71 | $0.71 |
+| SmartElex MPU-6050 6-Axis IMU Module | 1 | Robu.in | $5.32 | $5.32 |
+| YMD12095 5V Active Buzzer (12x9.5mm) | 1 | Robu.in | $0.29 | $0.29 |
+| Tactile Push Button Switch 6x6x5 (Pack of 10) | 1 | Robu.in | $0.23 | $0.23 |
+| CFR25 10k Ohm Axial Resistors | 7 | Robu.in | $0.02 | $0.14 |
+| MF25 1k Ohm Axial Resistors | 3 | Robu.in | $0.05 | $0.15 |
+| 2N2222A NPN Transistor TO-92 | 4 | Robu.in | $0.04 | $0.16 |
+| 1N5819 Schottky Diode DO-41 | 2 | Robu.in | $0.07 | $0.14 |
+| 1x40 Pin 2.54mm Male Berg Strip Connector | 2 | Robu.in | $0.10 | $0.20 |
+| 1x40 Pin 2.54mm Straight Long Female Strip Socket | 1 | Robu.in | $1.17 | $1.17 |
+| Custom Starbie PCB Fabrication (5 pcs) | 1 | JLCPCB | $9.75 | $9.75 |
+| Estimated total shipping | 1 | | | $0.00 |
 
 ---
 
