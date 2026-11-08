@@ -44,22 +44,23 @@ Temperature: Just shows the tempeature in the menu
 
 ## BOM
 
-| Item | Qty | Supplier | Cost/item | Total Cost |
-| :--- | :---: | :--- | :---: | :---: |
-| Seeed Studio XIAO ESP32-C3 | 1 | Robu.in | $8.97 | $8.97 |
-| 0.96 inch Yellow-Blue OLED Display Module | 1 | Robu.in | $2.14 | $2.14 |
-| DHT11 Temperature & Humidity Sensor Module | 1 | Robu.in | $0.71 | $0.71 |
-| SmartElex MPU-6050 6-Axis IMU Module | 1 | Robu.in | $5.32 | $5.32 |
-| YMD12095 5V Active Buzzer (12x9.5mm) | 1 | Robu.in | $0.29 | $0.29 |
-| Tactile Push Button Switch 6x6x5 (Pack of 10) | 1 | Robu.in | $0.23 | $0.23 |
-| CFR25 10k Ohm Axial Resistors | 7 | Robu.in | $0.02 | $0.14 |
-| MF25 1k Ohm Axial Resistors | 3 | Robu.in | $0.05 | $0.15 |
-| 2N2222A NPN Transistor TO-92 | 4 | Robu.in | $0.04 | $0.16 |
-| 1N5819 Schottky Diode DO-41 | 2 | Robu.in | $0.07 | $0.14 |
-| 1x40 Pin 2.54mm Male Berg Strip Connector | 2 | Robu.in | $0.10 | $0.20 |
-| 1x40 Pin 2.54mm Straight Long Female Strip Socket | 1 | Robu.in | $1.17 | $1.17 |
-| Custom Starbie PCB Fabrication (5 pcs) | 1 | JLCPCB | $9.75 | $9.75 |
-| Estimated total shipping | 1 | | | $0.00 |
+| Part | Description | Qty | Unit | Total | Vendor |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| **Seeed Studio XIAO ESP32-C3** | Main ESP32-C3 RISC-V microcontroller board with Wi-Fi and BLE | 1 | $8.97 | $8.97 | Robu.in |
+| **0.96 inch Yellow-Blue OLED Display Module** | 0.96 inch I2C OLED screen for pet animation and stats HUD | 1 | $2.14 | $2.14 | Robu.in |
+| **DHT11 Temperature & Humidity Sensor Module** | Digital ambient room temperature and humidity sensor | 1 | $0.71 | $0.71 | Robu.in |
+| **SmartElex MPU-6050 6-Axis IMU Module** | 6-axis motion tracking sensor for shake and tilt detection | 1 | $5.32 | $5.32 | Robu.in |
+| **YMD12095 5V Active Buzzer (12x9.5mm)** | 5V active electromagnetic buzzer for audio and tone feedback | 1 | $0.29 | $0.29 | Robu.in |
+| **Tactile Push Button Switch 6x6x5 (Pack of 10)** | Momentary tactile push buttons for navigation and user input | 1 | $0.23 | $0.23 | Robu.in |
+| **CFR25 10k Ohm Axial Resistors** | Pull-up resistor for DHT11 data line (R1) | 7 | $0.02 | $0.14 | Robu.in |
+| **MF25 1k Ohm Axial Resistors** | Base current-limiting resistor for buzzer NPN transistor (R2) | 3 | $0.05 | $0.15 | Robu.in |
+| **2N2222A NPN Transistor TO-92** | NPN transistor switch driving 5V buzzer from 3.3V GPIO (Q1) | 4 | $0.04 | $0.16 | Robu.in |
+| **1N5819 Schottky Diode DO-41** | Flyback protection diode across buzzer coil (D1) | 2 | $0.07 | $0.14 | Robu.in |
+| **1x40 Pin 2.54mm Male Berg Strip Connector** | Male pin headers for battery power input and break-out pins (J2) | 2 | $0.10 | $0.20 | Robu.in |
+| **1x40 Pin 2.54mm Straight Long Female Strip Socket** | Female header socket strips to mount OLED display and MPU-6050 (J1 and J3) | 1 | $1.17 | $1.17 | Robu.in |
+| **Custom Starbie PCB Fabrication (5 pcs)** | Custom 2-layer Starbie Straw Hat edition printed circuit boards (5 pcs total including shipping) | 1 | $9.75 | $9.75 | JLCPCB |
+| **Tax & shipping** | for the whole order | - | - | $0.00 | - |
+| **Total** | | | | **$29.37** | **Total $29.37 of $30 tier 1 funding** |
 
 ---
 
