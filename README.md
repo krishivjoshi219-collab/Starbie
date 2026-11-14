@@ -46,21 +46,26 @@ Temperature: Just shows the tempeature in the menu
 
 | Part | Description | Qty | Unit | Total | Vendor |
 | :--- | :--- | :---: | :---: | :---: | :--- |
-| **Seeed Studio XIAO ESP32-C3** | Main ESP32-C3 RISC-V microcontroller board with Wi-Fi and BLE | 1 | $8.97 | $8.97 | Robu.in |
-| **0.96 inch Yellow-Blue OLED Display Module** | 0.96 inch I2C OLED screen for pet animation and stats HUD | 1 | $2.14 | $2.14 | Robu.in |
-| **DHT11 Temperature & Humidity Sensor Module** | Digital ambient room temperature and humidity sensor | 1 | $0.71 | $0.71 | Robu.in |
-| **SmartElex MPU-6050 6-Axis IMU Module** | 6-axis motion tracking sensor for shake and tilt detection | 1 | $5.32 | $5.32 | Robu.in |
-| **YMD12095 5V Active Buzzer (12x9.5mm)** | 5V active electromagnetic buzzer for audio and tone feedback | 1 | $0.29 | $0.29 | Robu.in |
-| **Tactile Push Button Switch 6x6x5 (Pack of 10)** | Momentary tactile push buttons for navigation and user input | 1 | $0.23 | $0.23 | Robu.in |
-| **CFR25 10k Ohm Axial Resistors** | Pull-up resistor for DHT11 data line (R1) | 7 | $0.02 | $0.14 | Robu.in |
-| **MF25 1k Ohm Axial Resistors** | Base current-limiting resistor for buzzer NPN transistor (R2) | 3 | $0.05 | $0.15 | Robu.in |
-| **2N2222A NPN Transistor TO-92** | NPN transistor switch driving 5V buzzer from 3.3V GPIO (Q1) | 4 | $0.04 | $0.16 | Robu.in |
-| **1N5819 Schottky Diode DO-41** | Flyback protection diode across buzzer coil (D1) | 2 | $0.07 | $0.14 | Robu.in |
-| **1x40 Pin 2.54mm Male Berg Strip Connector** | Male pin headers for battery power input and break-out pins (J2) | 2 | $0.10 | $0.20 | Robu.in |
-| **1x40 Pin 2.54mm Straight Long Female Strip Socket** | Female header socket strips to mount OLED display and MPU-6050 (J1 and J3) | 1 | $1.17 | $1.17 | Robu.in |
-| **Custom Starbie PCB Fabrication (5 pcs)** | Custom 2-layer Starbie Straw Hat edition printed circuit boards (5 pcs total including shipping) | 1 | $9.75 | $9.75 | JLCPCB |
-| **Tax & shipping** | for the whole order | - | - | $0.00 | - |
-| **Total** | | | | **$29.37** | **Total $29.37 of $30 tier 1 funding** |
+| **Seeed Studio XIAO ESP32-C3** | Main ESP32-C3 RISC-V microcontroller board with Wi-Fi and BLE | 1 | $9.33 | $9.33 | Robu.in |
+| **0.96 inch Yellow-Blue OLED Display Module** | 0.96 inch I2C OLED screen for pet animation and stats HUD | 1 | $1.90 | $1.90 | Robu.in |
+| **DHT11 Temperature & Humidity Sensor Module** | Digital temperature and humidity sensor module; wire to U2.1/U2.2/U2.4 | 1 | $0.63 | $0.63 | Robu.in |
+| **SmartElex MPU-6050 6-Axis IMU Module** | 6-axis motion tracking sensor; wire to J3.1–J3.4 | 1 | $4.71 | $4.71 | Robu.in |
+| **YMD12095 3V Active Buzzer (12x9.5mm)** | 3V active electromagnetic buzzer for BZ1 (not 5V) | 1 | $0.27 | $0.27 | Robu.in |
+| **Tactile Push Button Switch 6x6x5 (Pack of 10)** | Momentary tactile push buttons; 2 used, 8 spares | 1 | $0.15 | $0.15 | Robu.in |
+| **CFR25 10k Ohm Axial Resistors** | DHT11 data pull-up resistor (R1); 1 used, 6 spares | 7 | $0.017 | $0.12 | Robu.in |
+| **MF25 1k Ohm Axial Resistors** | Buzzer NPN base resistor (R2); 1 used, 2 spares | 3 | $0.043 | $0.13 | Robu.in |
+| **BC547 NPN Transistor TO-92** | NPN transistor switch for BZ1 (Q1); C-B-E pinout | 3 | $0.046 | $0.14 | Robu.in |
+| **1N4148 Switching Diode DO-35** | Flyback protection diode for BZ1 (D1) | 7 | $0.036 | $0.25 | Robu.in |
+| **1x40 Pin 2.54mm Male Berg Strip Connector** | Male pin headers for XIAO and module connections | 2 | $0.085 | $0.17 | Robu.in |
+| **1x2 Pin 2.54mm Female Header** | J2 battery header; unused in USB-only build | 1 | $0.12 | $0.12 | Robu.in |
+| **1x4 Pin 2.54mm Female Header** | J1 OLED socket | 1 | $0.13 | $0.13 | Robu.in |
+| **1x8 Pin 2.54mm Female Header** | J3 MPU socket | 1 | $0.18 | $0.18 | Robu.in |
+| **Male to Female Jumper Wires 40pcs 20cm** | Jumper wires for DHT11 and MPU | 1 | $0.52 | $0.52 | Robu.in |
+| **Robu PCB Manufacturing Service (5 pcs)** | 5 custom 2-layer Starbie boards; 84.77 × 84.65 mm; 1.6 mm; HASL; green | 1 | $9.55 | $9.55 | Robu.in |
+| **Tax & shipping** | PCB shipping ₹49; components shipping free; tax ₹0 | - | - | $0.52 | Robu.in |
+| **Total** | | | | **$28.79** | **Total $28.79 of $30 tier 1 funding (₹2,713.97 at ₹94.26/$)** |
+
+Exact conversion: ₹2,713.97 ÷ 94.26 = $28.7924. Line prices are rounded to cents. Orders: Robu #3812423 (components) and #3812451 (PCB). USB-C data cable already owned; not included.
 
 ---
 
